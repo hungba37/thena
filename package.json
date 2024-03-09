@@ -1,12 +1,12 @@
 {
-    "name": "thena",
+    "name": "hungba-thena",
     "version": "0.0.10",
     "types": "index.d.ts",
     "description": "A simple, lightweight, and fast utility library for Node and the browser.",
     "type": "module",
     "author": "TheCommieAxolotl",
     "main": "dist/index.js",
-    "funding": "https://github.com/TheCommieAxolotl/thena?sponsor=1",
+    "funding": "https://github.com/hungba37/thena?sponsor=1",
     "license": "MIT",
     "scripts": {
         "build": "rollup -c",
@@ -28,7 +28,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/TheCommieAxolotl/thena.git"
+        "url": "https://github.com/hungba37/thena.git"
     },
     "homepage": "https://thenajs.vercel.app",
     "keywords": [
